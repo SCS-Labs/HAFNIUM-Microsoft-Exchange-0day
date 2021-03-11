@@ -16,10 +16,10 @@
 ## Indicators
 
 ### IP Addresses
-Malicious IP addresses [Here](/indicators/hashes)
+Malicious IP addresses [Here](/indicators/ip-addresses)
 
 ### Web Shell Hashes
-A list of hashes [Here](/indicators/ip-addresses)
+A list of hashes [Here](/indicators/hashes)
 
 ### Web Shell Paths
 A list of common paths [Here](/indicators/webshell_paths)
