@@ -37,9 +37,28 @@ A list of user agents found [Here](/indicators/useragents)
 
 ## Timeline
 
+## Tool Detections
+
 ## Post Exploitation
 
 ## Mitigations and Detections
+
+## Vendor Security Research
+
+### Volexity
+### Mandiant Managed Defense
+### Red Canary
+### Cisco Talos
+### Nextron Systems
+### Recon Infosec
+
+## Government or Agency Security Research
+
+### CISA
+
+### CERT Latvia
+
+
 
 ## Tweets
 
@@ -53,5 +72,7 @@ A list of user agents found [Here](/indicators/useragents)
 - Post Exploitation Section
 - Tweets Section
 - Mitigations and Detections Section
+- Vendor Security Research
+- Government or Agency Security Research
 
 
