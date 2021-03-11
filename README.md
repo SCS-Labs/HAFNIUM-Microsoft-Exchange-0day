@@ -35,9 +35,12 @@ Webshells can be found [Here](/indicators/webshell_names)
 A list of user agents found [Here](/indicators/useragents)
 
 
-## To-Do
+## Post Exploitation
+
+
+# To-Do
 - Build Complete Timeline
-- Add Scanning Section
-- Add Remediation Section
+- Post Exploitation Section
+- Mitigations and Detections Section
 
 
