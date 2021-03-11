@@ -16,16 +16,16 @@
 ## Indicators
 
 ### IP Addresses
-Malicious IP addresses Here
+Malicious IP addresses [Here](/indicators/hashes)
 
 ### Web Shell Hashes
-A list of hashes Here
+A list of hashes [Here](/indicators/ip-addresses)
 
 ### Web Shell Paths
-A list of common paths Here
+A list of common paths [Here](/indicators/webshell_paths)
 
 ### Web Shell Names
-Webshells can be found Here
+Webshells can be found [Here](/indicators/webshell_names)
 
 ### User-Agents
-A list of user agents found here
+A list of user agents found [Here](/indicators/useragents)
