@@ -17,8 +17,7 @@
 > CVE-2021-27065 is a post-authentication arbitrary file write vulnerability in Exchange. If HAFNIUM could authenticate with the Exchange server then they could use this vulnerability to write a file to any path on the server. They could authenticate by exploiting the CVE-2021-26855 SSRF vulnerability or by compromising a legitimate admin’s credentials.
 
 
-## Indicators
-
+## [Indicators](/indicators/README.md)
 ## [Timeline](Timeline.md)
 
 ## Tool Detections
