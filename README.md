@@ -19,22 +19,6 @@
 
 ## Indicators
 
-### IP Addresses
-Malicious IP addresses [Here](/indicators/ip-addresses)
-
-### Web Shell Hashes
-A list of hashes [Here](/indicators/hashes)
-
-### Web Shell Paths
-A list of common paths [Here](/indicators/webshell_paths)
-
-### Web Shell Names
-Webshells can be found [Here](/indicators/webshell_names)
-
-### User-Agents
-A list of user agents found [Here](/indicators/useragents)
-
-
 ## [Timeline](Timeline.md)
 
 ## Tool Detections
