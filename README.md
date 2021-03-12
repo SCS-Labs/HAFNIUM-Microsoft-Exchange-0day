@@ -13,4 +13,3 @@
 ## [Cool Resources](/resources/README.md)
 
 
-
