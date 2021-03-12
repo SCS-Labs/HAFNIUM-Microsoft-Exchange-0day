@@ -1,4 +1,4 @@
-![](https://github.com/SCS-Labs/Images/raw/main/SCS%20-%20HAFNIUM.png)
+
 
 
 
