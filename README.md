@@ -13,3 +13,7 @@
 ## [Cool Resources](/resources/README.md)
 
 
+To-Do Checklist
+
+- [ ] Indicators 
+
