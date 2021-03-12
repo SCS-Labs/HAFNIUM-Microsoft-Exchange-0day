@@ -16,7 +16,7 @@
 # To-Do Checklist
 
 - [ ] Indicators 
-- [ ] Timeline
+- [X] Timeline
 - [ ] Tool Detections
 - [ ] Post Exploitation
 - [ ] Mitigations and Detections
