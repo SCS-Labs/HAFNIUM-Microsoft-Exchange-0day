@@ -13,7 +13,7 @@
 - #### [Cool Resources](/resources/README.md)
 
 
-# To-Do Checklist
+## To-Do Checklist
 
 - [ ] Indicators 
 - [X] Timeline
@@ -24,3 +24,8 @@
 - [ ] Government or Agency Security Research
 - [X] Tweets
 - [ ] Cool Resources
+
+
+# Contributing
+
+If you want to Contribute to this all-in-one resource source for HAFNIUM Microsoft Exchange 0Day, please just do a pull request.
