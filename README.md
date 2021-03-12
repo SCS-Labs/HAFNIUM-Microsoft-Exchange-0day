@@ -22,5 +22,5 @@
 - [ ] Mitigations and Detections
 - [ ] Vendor Security Research
 - [ ] Government or Agency Security Research
-- [ ] Tweets
+- [X] Tweets
 - [ ] Cool Resources
