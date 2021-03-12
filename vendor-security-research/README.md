@@ -1,10 +1,10 @@
 # Vendor Security Research
 
-- [Volexity]()
-- [Mandiant Managed Defense]()
-- [Red Canary]()
-- [Cisco Talos]()
-- [Nextron Systems]()
-- [Recon Infosec]()
+- [Volexity](Volexity.md)
+- [Mandiant Managed Defense](Mandiant Managed Defense.md)
+- [Red Canary](Red Canary.md)
+- [Cisco Talos](Cisco Talos.md)
+- [Nextron Systems](Nextron Systems.md)
+- [Recon Infosec](Recon Infosec.md)
 
 
