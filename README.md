@@ -13,7 +13,14 @@
 ## [Cool Resources](/resources/README.md)
 
 
-To-Do Checklist
+# To-Do Checklist
 
 - [ ] Indicators 
-
+- [ ] Timeline
+- [ ] Tool Detections
+- [ ] Post Exploitation
+- [ ] Mitigations and Detections
+- [ ] Vendor Security Research
+- [ ] Government or Agency Security Research
+- [ ] Tweets
+- [ ] Cool Resources
