@@ -23,9 +23,7 @@
 - https://twitter.com/cyb3rops/status/1368970499297079300
 - https://twitter.com/huseyinrencber_/status/1369004814554849281
 - https://twitter.com/BushidoToken/status/1369253335061135362
-- 
-- 
- 
+
 
 
 
